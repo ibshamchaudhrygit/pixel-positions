@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pixel Positions</title>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Hanken+Grotesk:ital,wght@0,100..600;1,100..900&display=swap" rel="stylesheet">
-    @vite(["resources/js/app.js"])
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="bg-main text-white font-hanken">
 <div class="px-10 ">
